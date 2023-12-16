@@ -1,0 +1,16 @@
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.GlobalUsings.g.cs
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\SV\GB\Lang_prog\mpl2\2\bin\Debug\net6.0\2.exe
+C:\SV\GB\Lang_prog\mpl2\2\bin\Debug\net6.0\2.deps.json
+C:\SV\GB\Lang_prog\mpl2\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\SV\GB\Lang_prog\mpl2\2\bin\Debug\net6.0\2.dll
+C:\SV\GB\Lang_prog\mpl2\2\bin\Debug\net6.0\ref\2.dll
+C:\SV\GB\Lang_prog\mpl2\2\bin\Debug\net6.0\2.pdb
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.dll
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\ref\2.dll
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.pdb
+C:\SV\GB\Lang_prog\mpl2\2\obj\Debug\net6.0\2.genruntimeconfig.cache
